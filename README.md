@@ -2,9 +2,9 @@
 
 Mozilla Tamilnadu  Website
 
-Hashtag :- #MozillaTN
+Hashtag : #MozillaTN
 
-Link :mozillatn.github.io
+Link : http://mozillatn.github.io
 
 Mozilla Tamilnadu Website
 
@@ -14,10 +14,10 @@ Contains Home , About , Contributing Areas, Taskforce Teams , Events , Blog , Co
 
 Contain links to Social Pages in the footer
 
-Like Us at Facebook Page : https://www.facebook.com/MozilliansTamilNadu 
+Like us on Facebook  : https://www.facebook.com/MozilliansTamilNadu 
 
 Follow us on Twitter : https://twitter.com/mozillaTN 
 
-Join on Facebook group :https://www.facebook.com/groups/719835014702351/ 
+Join our Facebook group : https://www.facebook.com/groups/719835014702351/ 
 
-Join on Google group :https://groups.google.com/forum/?hl=en#!forum/mozillianstn
+Join our Google group : https://groups.google.com/forum/?hl=en#!forum/mozillianstn
